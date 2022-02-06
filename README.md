@@ -10,6 +10,8 @@ En pantallas de tamaños aproximados al 1080p, cuando se quiere ver Platzi a mit
 
 ## ¿Cómo lo puedo probar?
 
+Voy a intentar publicarlo como una extensión de navegador (Por eso el archivo _manifest.json_ y la carpeta de íconos), pero por lo pronto lo puedes probar de la siguiente manera:
+
 Copia todo el código dentro del archivo _PlatziModoCine.js_ y pégalo en la consola de tu navegador, al presionar _Enter_ aparecerá un botón en la barra de controles del reproductor que dice _"Modo Cine"_ al presionarlo cambiará entre los dos modos.
 
 ### Funciona solo en resoluciones que el responsive design no esconda por defecto el panel de comunidad.
