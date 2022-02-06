@@ -2,7 +2,7 @@
 
 ## Agrega un botón al reproductor para cambiar a modo cine estilo YouTube en pantallas grandes.
 
-![](https://i.imgur.com/TuUbElM.gif | width=100)
+![](https://i.imgur.com/TuUbElM.gif)
 
 El _modo cine_ hace que el reproductor cubra el 100% del ancho del viewport, escondiendo el panel de comunidad.
 
