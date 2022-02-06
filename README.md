@@ -1,7 +1,7 @@
 <p align="center">
 <img src="https://i.imgur.com/0O5ysjq.png" alt="Platzi Modo Cine"/>
 </p>
-<h1 align="center> Platzi Modo Cine</h1>
+<h1 align="center"> Platzi Modo Cine</h1>
 
 ## Agrega un botón al reproductor para cambiar a modo cine estilo YouTube en pantallas grandes.
 
