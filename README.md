@@ -5,16 +5,14 @@
 
 ## Agrega un botón al reproductor para cambiar a modo cine estilo YouTube en pantallas grandes.
 
-![](https://i.imgur.com/TuUbElM.gif)
+<a href="https://youtu.be/hIFga-stWig">
+<img src="https://i.imgur.com/h6hBbPa.gif" alt="Ejemplo de Modo Cine"/>
+</a>
 
-El _modo cine_ hace que el reproductor cubra el 100% del ancho del viewport, escondiendo el panel de comunidad.
+El _modo cine_ es útil cuando se quiere ver el reproductor de video al 100% del ancho del navegador en resoluciones no soportadas por el responsive por defecto, o se quiere esconder el panel de comunidad para enfocarse más en la clase.
 
-En pantallas de tamaños aproximados al 1080p, cuando se quiere ver Platzi a mitad de pantalla (Como para tener por mitad el video de la clase y la otra mitad el editor de texto y seguir el curso) este cambia su estilo automáticamente usando responsive design, pero si se quiere ver de la misma forma en pantalla dividida cuando la pantalla es de mayor resolución (Ejemplo 4K), el layout se vuelve el mismo al de pantalla completa ~1080, haciendo que aparezca el panel de comunidad y le quite espacio al reproductor de video, lo que puede resultar en una dificultad de lectura del contenido mostrado en el video.
+## Instalación
 
-## ¿Cómo lo puedo probar?
+La puedes descargar como extensión de Google Chrome desde <a href="https://chrome.google.com/webstore/detail/platzi-modo-cine/lbnocnbkjpigeicchmalljbafbfhfhjl">este vínculo.</a>
 
-Voy a intentar publicarlo como una extensión de navegador (Por eso el archivo _manifest.json_ y la carpeta de íconos), pero por lo pronto lo puedes probar de la siguiente manera:
-
-Copia todo el código dentro del archivo _PlatziModoCine.js_ y pégalo en la consola de tu navegador, al presionar _Enter_ aparecerá un botón en la barra de controles del reproductor que dice _"Modo Cine"_ que al presionarlo cambiará entre los dos modos.
-
-### Funciona solo en resoluciones que el responsive design no esconda por defecto el panel de comunidad.
+Al instalarla solo tienes que refrescar la página con el reproductor de la clase y el botón aparecerá en los controles de este.
