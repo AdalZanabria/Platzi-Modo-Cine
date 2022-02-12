@@ -5,9 +5,7 @@
 
 ## Agrega un botón al reproductor para cambiar a modo cine estilo YouTube en pantallas grandes.
 
-<a href="https://youtu.be/hIFga-stWig">
 ![Ejemplo de Platzi modo cine](https://i.imgur.com/h6hBbPa.gif)
-</a>
 
 El _modo cine_ es útil cuando se quiere ver el reproductor de video al 100% del ancho del navegador en resoluciones no soportadas por el responsive por defecto, o se quiere esconder el panel de comunidad para enfocarse más en la clase.
 
