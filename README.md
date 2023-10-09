@@ -5,6 +5,17 @@
 
 ## Agrega un botón al reproductor para cambiar a modo cine estilo YouTube en pantallas grandes.
 
+## Ahora soporte nuevo Home!!!
+
+![](./img-example/example_new_home.gif)
+
+## Mejoras en nueva version
+
+- Se mantiene la opción de modo cine incluso en el cambio automatico de videos
+- Se guarda el estado de modo Cine en el `localStorage`
+
+## Retrocompatibilidad con version anterior
+
 <a href="https://youtu.be/hIFga-stWig">
 <img src="https://i.imgur.com/ST7YSZ1.gif" alt="Ejemplo del modo cine"/>
 </a>
@@ -16,3 +27,4 @@ El _modo cine_ es útil cuando se quiere ver el reproductor de video al 100% del
 La puedes descargar como extensión de Google Chrome desde <a href="https://chrome.google.com/webstore/detail/platzi-modo-cine/lbnocnbkjpigeicchmalljbafbfhfhjl">este vínculo.</a>
 
 Al instalarla solo tienes que refrescar la página con el reproductor de la clase y el botón aparecerá en los controles de este.
+
