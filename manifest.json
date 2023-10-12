@@ -1,6 +1,6 @@
 {
     "manifest_version": 3,
-    "name": "Platzi Modo Cine",
+    "name": "Platzi Modo Cine v2",
     "description": "Agrega un modo cine al reproductor de Platzi",
     "permissions": ["activeTab"],
     "version": "2.0",
