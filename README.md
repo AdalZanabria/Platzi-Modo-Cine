@@ -9,7 +9,7 @@
 <img src="https://i.imgur.com/ST7YSZ1.gif" alt="Ejemplo del modo cine"/>
 </a>
 
-El _modo cine_ es útil cuando se quiere ver el reproductor de video al 100% del ancho del navegador en resoluciones no soportadas por el responsive por defecto, o se quiere esconder el panel de comunidad para enfocarse más en la clase.
+El _modo cine_ es útil cuando se quiere ver el reproductor de video al 100% del ancho del navegador en resoluciones no soportadas por el responsive por defecto (Arriba de 1280px de ancho), o se quiere esconder el panel de comunidad para enfocarse más en la clase.
 
 ## Instalación
 
